@@ -1,2 +1,1 @@
-# -JUEGO-DE-CORREDOR-INFINITO
- JUEGO DE CORREDOR INFINITO
+# C19_Plantilla_Proyecto_Tu_Propio_Juego_de_corredor_infinito
